@@ -24,7 +24,7 @@ MeetFlow enables users to create instant meetings, schedule future meetings, joi
 
 ### Meeting History
 
-![Meeting History](./images/history.png)
+![Meeting History](./images/History.png)
 
 ### Recordings
 
@@ -167,7 +167,7 @@ MONGODB_URI=
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/meetflow.git
+git clone https://github.com/navalmishra/meetflow.git
 cd meetflow
 ```
 
