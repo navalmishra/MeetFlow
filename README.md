@@ -8,7 +8,8 @@ MeetFlow enables users to create instant meetings, schedule future meetings, joi
 
 ## 🔗 Live Demo
 
-**Live Application:** https://meetflow.vercel.app
+**Live Application:** [🌐](https://meetflow-three-iota.vercel.app
+)
 
 ---
 
